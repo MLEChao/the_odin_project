@@ -1,4 +1,4 @@
 # google-homepage
-Recreate google homepage: http://www.theodinproject.com/web-development-101/html-css
+Recreate google homepage: https://github.com/MLEChao/google-homepage.git
 
 
